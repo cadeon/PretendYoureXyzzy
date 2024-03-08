@@ -101,8 +101,6 @@ boolean allowBlankCards = injector.getInstance(Key.get(new TypeLiteral<Boolean>(
     <input type="button" id="nicknameconfirm" value="Set" />
     <span id="nickbox_error" class="error"></span>
   </div>
-  <p><a href="privacy.html"><strong>Hey, this is important:</strong> Read the privacy page for
-  details about what gameplay information is collected and how it's shared.</a></p>
   <p>
     Pretend You're Xyzzy is a Cards Against Humanity clone, which is available at
     <a href="http://www.cardsagainsthumanity.com/">cardsagainsthumanity.com</a>, where you can buy

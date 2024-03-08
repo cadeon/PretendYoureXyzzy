@@ -39,14 +39,9 @@ to, for instance, display the number of connected players.
 </head>
 <body>
 <h1>
-  Pretend You're <dfn style="border-bottom: 1px dotted black"
-  title="Xyzzy is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
-  Xyzzy</dfn>
+  not-really-cards.
 </h1>
 <h3>A Cards Against Humanity clone.</h3>
-<p>
-  not-really-cards. A poor website that tries to pretend we're all in the same room. 
-</p>
 <p>
   <input type="button" value="Take me to the game!"
     onclick="window.location='game.jsp';" />

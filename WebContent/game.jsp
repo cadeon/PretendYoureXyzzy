@@ -84,13 +84,10 @@ boolean allowBlankCards = injector.getInstance(Key.get(new TypeLiteral<Boolean>(
 
 <div id="welcome">
   <h1 tabindex="0">
-    Pretend You're <dfn
-    title="Xyzzy is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
-    Xyzzy</dfn>
+    not-really-cards
   </h1>
   <h3>A <a href="http://cardsagainsthumanity.com/">Cards Against Humanity</a> clone.</h3>
   <p>
-    not-really-cards. 
     Enter your name below and click "Set" to move to the game.
   </p>
 
